@@ -1,0 +1,1 @@
+let fullname:string = "World";
